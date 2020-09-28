@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Dapper.Contrib" Version="2.0.35" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\YildirimHoldingTest.Core.Cache\YildirimHoldingTest.Core.Cache.csproj" />
+    <ProjectReference Include="..\YildirimHoldingTest.Core.Common\YildirimHoldingTest.Core.Common.csproj" />
+    <ProjectReference Include="..\YildirimHoldingTest.Core.Log\YildirimHoldingTest.Core.Log.csproj" />
+  </ItemGroup>
+
+</Project>

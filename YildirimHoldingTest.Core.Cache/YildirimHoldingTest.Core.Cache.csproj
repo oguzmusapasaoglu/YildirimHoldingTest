@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="ServiceStack.Interfaces" Version="5.9.2" />
+    <PackageReference Include="ServiceStack.Redis" Version="5.9.2" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\YildirimHoldingTest.Core.Common\YildirimHoldingTest.Core.Common.csproj" />
+  </ItemGroup>
+
+</Project>

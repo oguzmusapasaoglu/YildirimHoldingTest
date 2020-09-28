@@ -1,0 +1,8 @@
+C:\Dev\YildirimHoldingTest\YildirimHoldingTest.Core.Common\obj\Debug\netcoreapp3.1\YildirimHoldingTest.Core.Common.AssemblyInfoInputs.cache
+C:\Dev\YildirimHoldingTest\YildirimHoldingTest.Core.Common\obj\Debug\netcoreapp3.1\YildirimHoldingTest.Core.Common.AssemblyInfo.cs
+C:\Dev\YildirimHoldingTest\YildirimHoldingTest.Core.Common\obj\Debug\netcoreapp3.1\YildirimHoldingTest.Core.Common.csproj.CoreCompileInputs.cache
+C:\Dev\YildirimHoldingTest\YildirimHoldingTest.Core.Common\bin\Debug\netcoreapp3.1\YildirimHoldingTest.Core.Common.deps.json
+C:\Dev\YildirimHoldingTest\YildirimHoldingTest.Core.Common\bin\Debug\netcoreapp3.1\YildirimHoldingTest.Core.Common.dll
+C:\Dev\YildirimHoldingTest\YildirimHoldingTest.Core.Common\bin\Debug\netcoreapp3.1\YildirimHoldingTest.Core.Common.pdb
+C:\Dev\YildirimHoldingTest\YildirimHoldingTest.Core.Common\obj\Debug\netcoreapp3.1\YildirimHoldingTest.Core.Common.dll
+C:\Dev\YildirimHoldingTest\YildirimHoldingTest.Core.Common\obj\Debug\netcoreapp3.1\YildirimHoldingTest.Core.Common.pdb

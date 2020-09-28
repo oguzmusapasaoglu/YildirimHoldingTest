@@ -1,0 +1,376 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Dev\\YildirimHoldingTest\\YildirimHoldingTest.Domain.Users\\YildirimHoldingTest.Domain.Users.csproj": {}
+  },
+  "projects": {
+    "C:\\Dev\\YildirimHoldingTest\\YildirimHoldingTest.Core.Cache\\YildirimHoldingTest.Core.Cache.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Dev\\YildirimHoldingTest\\YildirimHoldingTest.Core.Cache\\YildirimHoldingTest.Core.Cache.csproj",
+        "projectName": "YildirimHoldingTest.Core.Cache",
+        "projectPath": "C:\\Dev\\YildirimHoldingTest\\YildirimHoldingTest.Core.Cache\\YildirimHoldingTest.Core.Cache.csproj",
+        "packagesPath": "C:\\Users\\Olorin\\.nuget\\packages\\",
+        "outputPath": "C:\\Dev\\YildirimHoldingTest\\YildirimHoldingTest.Core.Cache\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Olorin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Dev\\YildirimHoldingTest\\YildirimHoldingTest.Core.Common\\YildirimHoldingTest.Core.Common.csproj": {
+                "projectPath": "C:\\Dev\\YildirimHoldingTest\\YildirimHoldingTest.Core.Common\\YildirimHoldingTest.Core.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "ServiceStack.Interfaces": {
+              "target": "Package",
+              "version": "[5.9.2, )"
+            },
+            "ServiceStack.Redis": {
+              "target": "Package",
+              "version": "[5.9.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Dev\\YildirimHoldingTest\\YildirimHoldingTest.Core.Common\\YildirimHoldingTest.Core.Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Dev\\YildirimHoldingTest\\YildirimHoldingTest.Core.Common\\YildirimHoldingTest.Core.Common.csproj",
+        "projectName": "YildirimHoldingTest.Core.Common",
+        "projectPath": "C:\\Dev\\YildirimHoldingTest\\YildirimHoldingTest.Core.Common\\YildirimHoldingTest.Core.Common.csproj",
+        "packagesPath": "C:\\Users\\Olorin\\.nuget\\packages\\",
+        "outputPath": "C:\\Dev\\YildirimHoldingTest\\YildirimHoldingTest.Core.Common\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Olorin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Dapper.Contrib": {
+              "target": "Package",
+              "version": "[2.0.35, )"
+            },
+            "Mapster": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[3.1.8, )"
+            },
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[3.1.8, )"
+            },
+            "Microsoft.Extensions.Configuration.Binder": {
+              "target": "Package",
+              "version": "[3.1.8, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[3.1.8, )"
+            },
+            "MongoDB.Bson": {
+              "target": "Package",
+              "version": "[2.11.2, )"
+            },
+            "ServiceStack.Text": {
+              "target": "Package",
+              "version": "[5.9.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Dev\\YildirimHoldingTest\\YildirimHoldingTest.Core.Data\\YildirimHoldingTest.Core.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Dev\\YildirimHoldingTest\\YildirimHoldingTest.Core.Data\\YildirimHoldingTest.Core.Data.csproj",
+        "projectName": "YildirimHoldingTest.Core.Data",
+        "projectPath": "C:\\Dev\\YildirimHoldingTest\\YildirimHoldingTest.Core.Data\\YildirimHoldingTest.Core.Data.csproj",
+        "packagesPath": "C:\\Users\\Olorin\\.nuget\\packages\\",
+        "outputPath": "C:\\Dev\\YildirimHoldingTest\\YildirimHoldingTest.Core.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Olorin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Dev\\YildirimHoldingTest\\YildirimHoldingTest.Core.Common\\YildirimHoldingTest.Core.Common.csproj": {
+                "projectPath": "C:\\Dev\\YildirimHoldingTest\\YildirimHoldingTest.Core.Common\\YildirimHoldingTest.Core.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.0.35, )"
+            },
+            "Dapper.Contrib": {
+              "target": "Package",
+              "version": "[2.0.35, )"
+            },
+            "MongoDB.Driver": {
+              "target": "Package",
+              "version": "[2.11.2, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Dev\\YildirimHoldingTest\\YildirimHoldingTest.Core.Log\\YildirimHoldingTest.Core.Log.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Dev\\YildirimHoldingTest\\YildirimHoldingTest.Core.Log\\YildirimHoldingTest.Core.Log.csproj",
+        "projectName": "YildirimHoldingTest.Core.Log",
+        "projectPath": "C:\\Dev\\YildirimHoldingTest\\YildirimHoldingTest.Core.Log\\YildirimHoldingTest.Core.Log.csproj",
+        "packagesPath": "C:\\Users\\Olorin\\.nuget\\packages\\",
+        "outputPath": "C:\\Dev\\YildirimHoldingTest\\YildirimHoldingTest.Core.Log\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Olorin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Dev\\YildirimHoldingTest\\YildirimHoldingTest.Core.Common\\YildirimHoldingTest.Core.Common.csproj": {
+                "projectPath": "C:\\Dev\\YildirimHoldingTest\\YildirimHoldingTest.Core.Common\\YildirimHoldingTest.Core.Common.csproj"
+              },
+              "C:\\Dev\\YildirimHoldingTest\\YildirimHoldingTest.Core.Data\\YildirimHoldingTest.Core.Data.csproj": {
+                "projectPath": "C:\\Dev\\YildirimHoldingTest\\YildirimHoldingTest.Core.Data\\YildirimHoldingTest.Core.Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Dev\\YildirimHoldingTest\\YildirimHoldingTest.Domain.Users\\YildirimHoldingTest.Domain.Users.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Dev\\YildirimHoldingTest\\YildirimHoldingTest.Domain.Users\\YildirimHoldingTest.Domain.Users.csproj",
+        "projectName": "YildirimHoldingTest.Domain.Users",
+        "projectPath": "C:\\Dev\\YildirimHoldingTest\\YildirimHoldingTest.Domain.Users\\YildirimHoldingTest.Domain.Users.csproj",
+        "packagesPath": "C:\\Users\\Olorin\\.nuget\\packages\\",
+        "outputPath": "C:\\Dev\\YildirimHoldingTest\\YildirimHoldingTest.Domain.Users\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Olorin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Dev\\YildirimHoldingTest\\YildirimHoldingTest.Core.Cache\\YildirimHoldingTest.Core.Cache.csproj": {
+                "projectPath": "C:\\Dev\\YildirimHoldingTest\\YildirimHoldingTest.Core.Cache\\YildirimHoldingTest.Core.Cache.csproj"
+              },
+              "C:\\Dev\\YildirimHoldingTest\\YildirimHoldingTest.Core.Common\\YildirimHoldingTest.Core.Common.csproj": {
+                "projectPath": "C:\\Dev\\YildirimHoldingTest\\YildirimHoldingTest.Core.Common\\YildirimHoldingTest.Core.Common.csproj"
+              },
+              "C:\\Dev\\YildirimHoldingTest\\YildirimHoldingTest.Core.Log\\YildirimHoldingTest.Core.Log.csproj": {
+                "projectPath": "C:\\Dev\\YildirimHoldingTest\\YildirimHoldingTest.Core.Log\\YildirimHoldingTest.Core.Log.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Dapper.Contrib": {
+              "target": "Package",
+              "version": "[2.0.35, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

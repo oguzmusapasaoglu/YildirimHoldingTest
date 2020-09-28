@@ -1,0 +1,12 @@
+C:\Dev\YildirimHoldingTest\YildirimHoldingTest.Core.Data\obj\Debug\netcoreapp3.1\YildirimHoldingTest.Core.Data.csprojAssemblyReference.cache
+C:\Dev\YildirimHoldingTest\YildirimHoldingTest.Core.Data\obj\Debug\netcoreapp3.1\YildirimHoldingTest.Core.Data.AssemblyInfoInputs.cache
+C:\Dev\YildirimHoldingTest\YildirimHoldingTest.Core.Data\obj\Debug\netcoreapp3.1\YildirimHoldingTest.Core.Data.AssemblyInfo.cs
+C:\Dev\YildirimHoldingTest\YildirimHoldingTest.Core.Data\obj\Debug\netcoreapp3.1\YildirimHoldingTest.Core.Data.csproj.CoreCompileInputs.cache
+C:\Dev\YildirimHoldingTest\YildirimHoldingTest.Core.Data\bin\Debug\netcoreapp3.1\YildirimHoldingTest.Core.Common.dll
+C:\Dev\YildirimHoldingTest\YildirimHoldingTest.Core.Data\bin\Debug\netcoreapp3.1\YildirimHoldingTest.Core.Data.deps.json
+C:\Dev\YildirimHoldingTest\YildirimHoldingTest.Core.Data\bin\Debug\netcoreapp3.1\YildirimHoldingTest.Core.Data.dll
+C:\Dev\YildirimHoldingTest\YildirimHoldingTest.Core.Data\bin\Debug\netcoreapp3.1\YildirimHoldingTest.Core.Data.pdb
+C:\Dev\YildirimHoldingTest\YildirimHoldingTest.Core.Data\bin\Debug\netcoreapp3.1\YildirimHoldingTest.Core.Common.pdb
+C:\Dev\YildirimHoldingTest\YildirimHoldingTest.Core.Data\obj\Debug\netcoreapp3.1\YildirimHoldingTest.Core.Data.csproj.CopyComplete
+C:\Dev\YildirimHoldingTest\YildirimHoldingTest.Core.Data\obj\Debug\netcoreapp3.1\YildirimHoldingTest.Core.Data.dll
+C:\Dev\YildirimHoldingTest\YildirimHoldingTest.Core.Data\obj\Debug\netcoreapp3.1\YildirimHoldingTest.Core.Data.pdb

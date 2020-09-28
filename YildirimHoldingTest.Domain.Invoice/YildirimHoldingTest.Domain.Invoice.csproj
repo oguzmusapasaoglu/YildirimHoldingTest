@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\YildirimHoldingTest.Core.Common\YildirimHoldingTest.Core.Common.csproj" />
+    <ProjectReference Include="..\YildirimHoldingTest.Core.Log\YildirimHoldingTest.Core.Log.csproj" />
+    <ProjectReference Include="..\YildirimHoldingTest.Domain.Customer\YildirimHoldingTest.Domain.Customer.csproj" />
+    <ProjectReference Include="..\YildirimHoldingTest.Domain.Users\YildirimHoldingTest.Domain.Users.csproj" />
+  </ItemGroup>
+
+</Project>
